@@ -1,0 +1,24 @@
+
+
+h1{
+    font-size: 45px;
+    margin-left: 260x;
+    margin-top: 20px;
+}
+#my_table3{
+    margin-left: 55px;
+    font-size: 20px;
+    width: 700px;
+    border-style: groove;
+    border-collapse: collapse;
+    background-color: #effbf7;
+}
+#my_table3 tr:hover {background-color: #e7e7e7;}
+th{
+    background-color: #82dfbf;
+
+}
+th,td{
+    padding: 11px;
+    text-align: center;
+}

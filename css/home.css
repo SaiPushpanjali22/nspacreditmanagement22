@@ -1,0 +1,45 @@
+
+.fixed-header{
+    width: 100%;
+    position: fixed;        
+    background:#20F2F1;
+    padding: 10px 0;
+    color:black;
+    margin-left: -8px;
+    height: 20px;
+}
+.logo img{
+	width: 60px;
+	height:50px;
+	float: left;
+	position:relative;
+	z-index:10000;
+	margin-left: -100px;
+	border-radius: 50%;
+	margin-top:-11px;
+}
+.fixed-footer{
+    width: 100%;
+    position: fixed;        
+    background:#333;
+    padding: 10px 0;
+    color:#fff;
+    margin-left: -8px;
+    height: 20px;
+}
+.fixed-header{
+    top: 0;}
+.fixed-footer{
+        bottom: 0;}
+
+.container{
+    width: 80%;
+    margin: 0 auto; /* Center the DIV horizontally */
+    text-align: center;}
+    
+	
+
+
+
+
+
